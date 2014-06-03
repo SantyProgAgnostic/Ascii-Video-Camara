@@ -1,0 +1,19 @@
+* {margin: 0; padding: 0;}
+
+body {
+	text-align: center;
+}
+
+#Ascii {
+	font-family: monospace;
+	font-size: 500px;
+	line-height: 500%;
+}
+
+#video {
+	display: none;
+}
+
+#container {
+	overflow: hidden;
+	display: inline-block;
